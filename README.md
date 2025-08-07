@@ -2,7 +2,7 @@
 
 **Student Placement Predictor** is a Machine Learning project that predicts whether a student is likely to be placed based on their academic and personal attributes. The project explores classification algorithms and deploys a live web application to assist institutions and students with early insights into placement readiness.
 
-This project demonstrates how ML classification workflows can be built, trained, and deployed using Scikit-learn, with a Flask-based web interface.
+This project demonstrates how machine learning classification models (SVC and Random Forest) can be built and trained using Scikit-learn, and deployed via a Flask-based web interface.
 
 ---
 
@@ -10,7 +10,7 @@ This project demonstrates how ML classification workflows can be built, trained,
 
 - Cleaned and preprocessed student dataset  
 - Feature scaling using StandardScaler  
-- Classification models tested: ✅ Support Vector Classifier (SVC), ✅ Random Forest         C
+- Classification models tested: ✅ Support Vector Classifier (SVC), ✅ Random Forest         
 - Final model saved using `pickle`  
 - Web application using Flask + HTML  
 - Real-time placement prediction based on user inputs  
