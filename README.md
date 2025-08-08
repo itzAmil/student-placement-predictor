@@ -10,8 +10,7 @@ This project demonstrates how machine learning classification models (SVC and Ra
 
 - Cleaned and preprocessed student dataset  
 - Feature scaling using StandardScaler  
-- Classification models tested: ✅ Support Vector Classifier (SVC), ✅ Random Forest         
-- Final model saved using `pickle`  
+- Classification models tested: ✅ Support Vector Classifier (SVC), ✅ Random Forest          
 - Web application using Flask + HTML  
 - Real-time placement prediction based on user inputs  
 
