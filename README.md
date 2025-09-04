@@ -35,7 +35,7 @@ The project uses a cleaned version of the data with categorical and numerical fe
 ## Tech Stack
 
 - Python 3.13  
-- Scikit-learn  
+- Scikit-Learn  
 - Pandas  
 - NumPy  
 - Flask  
