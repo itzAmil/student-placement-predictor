@@ -1,22 +1,22 @@
-# 🎓 Student Placement Predictor
+# Student Placement Predictor
 
-**Student Placement Predictor** is a Machine Learning project that predicts whether a student is likely to be placed based on their academic and personal attributes. The project explores classification algorithms and deploys a live web application to assist institutions and students with early insights into placement readiness.
+**Student Placement Predictor** is a Machine Learning project that predicts whether a student is likely to be placed based on their academic and personal attributes. The project explores classification algorithms and deploys a web application to assist institutions and students with early insights into placement readiness.
 
-This project demonstrates how machine learning classification models (SVC and Random Forest) can be built and trained using Scikit-learn, and deployed via a Flask-based web interface.
+This project demonstrates how machine learning classification models (SVC and Random Forest) can be built and trained using Scikit-Learn, and deployed via a Flask-based web interface.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Cleaned and preprocessed student dataset  
 - Feature scaling using StandardScaler  
-- Classification models tested: ✅ Support Vector Classifier (SVC), ✅ Random Forest          
+- Classification models tested: Support Vector Classifier (SVC), Random Forest          
 - Web application using Flask + HTML  
 - Real-time placement prediction based on user inputs  
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User fills in academic and personal details through the web interface  
 2. The backend applies preprocessing and feeds the input into the trained ML model  
@@ -25,14 +25,14 @@ This project demonstrates how machine learning classification models (SVC and Ra
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset includes features such as CGPA, gender, SSC/HSC percentage, stream, degree type, etc.  
 The project uses a cleaned version of the data with categorical and numerical features encoded for model training.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.13  
 - Scikit-learn  
@@ -44,7 +44,7 @@ The project uses a cleaned version of the data with categorical and numerical fe
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project was originally developed as part of a group academic project.
 
@@ -59,7 +59,7 @@ This project was originally developed as part of a group academic project.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the **MIT License**.  
 You are free to use, modify, and distribute it with proper credit.
